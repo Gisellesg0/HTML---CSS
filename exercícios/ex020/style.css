@@ -1,0 +1,30 @@
+body{
+   background-color:gainsboro;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    color: black;
+    text-decoration: none;  
+   font-family: 'Times New Roman', Times, serif;
+    
+  
+}
+.navbar:hover{
+    color:#731702;
+}
+#excecao{
+    color:#731702;
+    text-decoration: none;
+}
+
+ul{
+list-style: none;}
+
+.navbar:active{
+    color: azure;
+
+}
